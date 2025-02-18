@@ -1,0 +1,263 @@
+{
+  "__collections__": {
+    "notes": {
+      "C91Lq6fQ0dNzOwS50dSnNPp2XXR2": {
+        "uid": "C91Lq6fQ0dNzOwS50dSnNPp2XXR2",
+        "note": "new notes",
+        "__collections__": {}
+      },
+      "kQlH8IWwIqfe8pxRQdOEyuSPuuG2": {
+        "uid": "kQlH8IWwIqfe8pxRQdOEyuSPuuG2",
+        "note": "",
+        "__collections__": {}
+      },
+      "ug7VBodSw3UUSn0jUwNMzcnO82x2": {
+        "uid": "ug7VBodSw3UUSn0jUwNMzcnO82x2",
+        "note": "i want chicken rice 2",
+        "__collections__": {}
+      }
+    },
+    "outlets": {
+      "81i5lJHbtSwlMdWvNlwg": {
+        "address": "Northpoint City",
+        "restaurant": "02",
+        "lon": "103.83570",
+        "lat": "1.42991",
+        "__collections__": {}
+      },
+      "HCOEvGTqBKF1UJwxM6L6": {
+        "address": "11 New Bridge Road",
+        "restaurant": "02",
+        "lat": "1.29003",
+        "lon": "103.84755",
+        "__collections__": {}
+      },
+      "Q2Xp064xrsP8IUk1o90b": {
+        "address": "The Centrepoint",
+        "restaurant": "02",
+        "lon": "103.83999",
+        "lat": "1.30191",
+        "__collections__": {}
+      },
+      "czhTtzN9bgXBAZtvPkTS": {
+        "restaurant": "01",
+        "address": "1 Vista Exchange Green",
+        "lon": "103.7880229998154",
+        "lat": "1.3075698289618092",
+        "__collections__": {}
+      },
+      "hBo17FvsnPKFuK0mIYav": {
+        "address": "Bukit Panjang Plaza",
+        "restaurant": "02",
+        "lon": "103.76415",
+        "lat": "1.38081",
+        "__collections__": {}
+      },
+      "oA1DxTU8omx3IVa8OIig": {
+        "restaurant": "01",
+        "address": "18 Cheong Chin Nam Rd",
+        "lon": "103.77507212908544",
+        "lat": "1.343514471566563",
+        "__collections__": {}
+      }
+    },
+    "posts": {
+      "EKTuklBGnKPBgWUgWonO": {
+        "dateTime": "2025-02-17T14:14:27.036143",
+        "uid": "kQlH8IWwIqfe8pxRQdOEyuSPuuG2",
+        "restaurantName": "new new",
+        "imageUrls": [
+          "https://firebasestorage.googleapis.com/v0/b/nomnompassport-16244.firebasestorage.app/o/posts%2FkQlH8IWwIqfe8pxRQdOEyuSPuuG2%2F1739772862647_0.jpg?alt=media&token=9a329845-2007-4c92-8fc3-78e953ed399c"
+        ],
+        "rating": 4,
+        "caption": "new new",
+        "title": "this is new post",
+        "__collections__": {}
+      },
+      "LH40Xk7R5xqfzQgUjsuX": {
+        "dateTime": "2025-02-16T23:17:05.765991",
+        "uid": "kQlH8IWwIqfe8pxRQdOEyuSPuuG2",
+        "restaurantName": "post post",
+        "imageUrls": [
+          "https://firebasestorage.googleapis.com/v0/b/nomnompassport-16244.firebasestorage.app/o/posts%2FkQlH8IWwIqfe8pxRQdOEyuSPuuG2%2F1739719021163_0.jpg?alt=media&token=756deedb-3468-4a62-846c-ed09b3aa1a11"
+        ],
+        "rating": 5,
+        "caption": "caption of this post",
+        "title": "my new post",
+        "__collections__": {}
+      },
+      "OlnG2iMoytQA3lHhTNfG": {
+        "dateTime": "2025-02-17T15:21:08.019114",
+        "uid": "kQlH8IWwIqfe8pxRQdOEyuSPuuG2",
+        "restaurantName": "book tiong kee",
+        "imageUrls": [
+          "https://firebasestorage.googleapis.com/v0/b/nomnompassport-16244.firebasestorage.app/o/posts%2FkQlH8IWwIqfe8pxRQdOEyuSPuuG2%2F1739776863854_0.jpg?alt=media&token=5c34f4d5-d66a-46af-8eb5-3617caf33597"
+        ],
+        "rating": 4,
+        "caption": "17 Feb chicken rice",
+        "title": "new chicken rice",
+        "__collections__": {}
+      },
+      "cy4xITSbude0qWpeDOpb": {
+        "dateTime": "2025-02-16T23:36:33.062328",
+        "uid": "kQlH8IWwIqfe8pxRQdOEyuSPuuG2",
+        "restaurantName": "rrr",
+        "imageUrls": [
+          "https://firebasestorage.googleapis.com/v0/b/nomnompassport-16244.firebasestorage.app/o/posts%2FkQlH8IWwIqfe8pxRQdOEyuSPuuG2%2F1739720188570_0.jpg?alt=media&token=78836e0d-9385-48a8-a163-b557657a2e47"
+        ],
+        "rating": 4,
+        "caption": "rrr",
+        "title": "rrr",
+        "__collections__": {}
+      }
+    },
+    "restaurants": {
+      "01": {
+        "restaurantName": "Boon Tong Kee",
+        "cusineName": "Cantonese Chicken Rice",
+        "description": "Famous for its tender, fragrant chicken and flavorful rice. Offers both traditional and modern dining experiences.",
+        "rewards": "Earn 2 Stamps when you dine at Boon Tong Kee this week! Redeem for exclusive discounts or free menu items.",
+        "rating": 0,
+        "__collections__": {}
+      },
+      "02": {
+        "cusineName": "Ba Kut Teh",
+        "description": "High quality pork is carefully simmered with fresh ingredients of garlic and white pepper for long hours, to yield our trademark clear and peppery Bak Kut Teh broth.",
+        "rating": 0,
+        "restaurantName": "Song Fa",
+        "rewards": "",
+        "__collections__": {}
+      }
+    },
+    "saved": {
+      "kQlH8IWwIqfe8pxRQdOEyuSPuuG2": {
+        "01": {
+          "outletAddresses": [
+            "1 Vista Exchange Green",
+            "18 Cheong Chin Nam Rd"
+          ],
+          "restaurantName": "Boon Tong Kee",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/nomnompassport-16244.firebasestorage.app/o/restaurants%2F01.png?alt=media&token=a78b2c70-8a8e-478b-a76e-1110f0439f4f",
+          "rating": 0,
+          "description": "Famous for its tender, fragrant chicken and flavorful rice. Offers both traditional and modern dining experiences.",
+          "cuisine": "Cantonese Chicken Rice",
+          "rewards": "Earn 2 Stamps when you dine at Boon Tong Kee this week! Redeem for exclusive discounts or free menu items.",
+          "savedAt": {
+            "__datatype__": "timestamp",
+            "value": {
+              "_seconds": 1739761484,
+              "_nanoseconds": 490000000
+            }
+          }
+        },
+        "02": {
+          "outletAddresses": [
+            "Northpoint City",
+            "11 New Bridge Road",
+            "The Centrepoint",
+            "Bukit Panjang Plaza"
+          ],
+          "restaurantName": "Song Fa",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/nomnompassport-16244.firebasestorage.app/o/restaurants%2F02.png?alt=media&token=d3103d96-80b9-433b-af36-09ef05e4b4ce",
+          "rating": 0,
+          "cuisine": "Ba Kut Teh",
+          "description": "High quality pork is carefully simmered with fresh ingredients of garlic and white pepper for long hours, to yield our trademark clear and peppery Bak Kut Teh broth.",
+          "rewards": "",
+          "savedAt": {
+            "__datatype__": "timestamp",
+            "value": {
+              "_seconds": 1739777099,
+              "_nanoseconds": 49000000
+            }
+          }
+        },
+        "__collections__": {
+          "restaurants": {
+            "01": {
+              "outletAddresses": [
+                "1 Vista Exchange Green",
+                "18 Cheong Chin Nam Rd"
+              ],
+              "restaurantName": "Boon Tong Kee",
+              "imageUrl": "https://firebasestorage.googleapis.com/v0/b/nomnompassport-16244.firebasestorage.app/o/restaurants%2F01.png?alt=media&token=a78b2c70-8a8e-478b-a76e-1110f0439f4f",
+              "rating": 0,
+              "cuisine": "Cantonese Chicken Rice",
+              "description": "Famous for its tender, fragrant chicken and flavorful rice. Offers both traditional and modern dining experiences.",
+              "restaurantId": "01",
+              "userId": "kQlH8IWwIqfe8pxRQdOEyuSPuuG2",
+              "rewards": "Earn 2 Stamps when you dine at Boon Tong Kee this week! Redeem for exclusive discounts or free menu items.",
+              "savedAt": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1739732620,
+                  "_nanoseconds": 691000000
+                }
+              },
+              "__collections__": {}
+            },
+            "02": {
+              "outletAddresses": [
+                "Northpoint City",
+                "11 New Bridge Road",
+                "The Centrepoint",
+                "Bukit Panjang Plaza"
+              ],
+              "restaurantName": "Song Fa",
+              "imageUrl": "https://firebasestorage.googleapis.com/v0/b/nomnompassport-16244.firebasestorage.app/o/restaurants%2F02.png?alt=media&token=d3103d96-80b9-433b-af36-09ef05e4b4ce",
+              "rating": 0,
+              "cuisine": "Ba Kut Teh",
+              "description": "High quality pork is carefully simmered with fresh ingredients of garlic and white pepper for long hours, to yield our trademark clear and peppery Bak Kut Teh broth.",
+              "restaurantId": "02",
+              "userId": "kQlH8IWwIqfe8pxRQdOEyuSPuuG2",
+              "rewards": "",
+              "savedAt": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1739732631,
+                  "_nanoseconds": 743000000
+                }
+              },
+              "__collections__": {}
+            }
+          }
+        }
+      }
+    },
+    "stamps": {
+      "C91Lq6fQ0dNzOwS50dSnNPp2XXR2": {
+        "stampCount": 1,
+        "__collections__": {}
+      },
+      "kQlH8IWwIqfe8pxRQdOEyuSPuuG2": {
+        "stampCount": 4,
+        "__collections__": {}
+      }
+    },
+    "users": {
+      "kQlH8IWwIqfe8pxRQdOEyuSPuuG2": {
+        "email": "lala@gmail.com",
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1739714953,
+            "_nanoseconds": 413000000
+          }
+        },
+        "username": "lala",
+        "__collections__": {}
+      },
+      "wdb34XBgioR9jUY89Il8oKPrSz62": {
+        "email": "newuser@gmail.com",
+        "username": "newuser",
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1739714753,
+            "_nanoseconds": 980000000
+          }
+        },
+        "__collections__": {}
+      }
+    }
+  }
+}

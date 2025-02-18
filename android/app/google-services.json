@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4895853349",
+    "project_id": "nomnompassport-16244",
+    "storage_bucket": "nomnompassport-16244.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4895853349:android:c4402ad542c298ecf9e8cc",
+        "android_client_info": {
+          "package_name": "com.example.nomnom_passport_223841m_cpmad_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvKrDqDgmxrcRPi85tjURvaRm5gRkLfz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
